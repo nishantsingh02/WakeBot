@@ -126,4 +126,4 @@ npx wrangler secret put DATABASE_URL
 
 ---
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by Nishant Singh
